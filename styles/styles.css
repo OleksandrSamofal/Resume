@@ -110,6 +110,7 @@ margin-bottom: 45px;
     line-height: 20px;
     color: #000000;
     margin-bottom: 10px;
+    
 }
 
 .organization{
@@ -118,6 +119,7 @@ margin-bottom: 45px;
     font-size: 16px;
     line-height: 20px; 
     color: #FB6D3A;
+    /* padding-left: 10px; */
 }
 
 .period{
